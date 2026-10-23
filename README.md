@@ -9,7 +9,7 @@ Documentación equipo 4
 3. Verificar acceso a red
 
 
-##Problemas de impresora
+
 
 ## Problemas de impresora
 
