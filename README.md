@@ -1,9 +1,8 @@
 # soporte-ti-branching
 Documentación equipo 4
 
-Soporte-Red
+**#Soporte-Red**
 Problemas de red
-
 Si no hay conexión:
 
 1 Verificar cable
@@ -23,7 +22,7 @@ Si no hay conexión:
 2. Verificar drivers
 3. Reiniciar spooler
 
-#Problemas_Hardware
+**#Problemas_Hardware**
 1.Verificar corriente a la luz
 2.Cambiar teclado
 3.Cambiar monitor
