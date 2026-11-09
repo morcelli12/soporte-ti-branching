@@ -1,0 +1,29 @@
+# Procedimiento: Usuario sin acceso a Internet por cable Ethernet desconectado
+
+**1. Identificación del problema**
+- Se recibe el reporte del usuario indicando que no tiene acceso a Internet.
+- Se verifica si el equipo está conectado mediante cable Ethernet.
+- Se inspecciona físicamente la conexión y se identifica que el cable está desconectado de la computadora.
+
+**2. Revisión inicial**
+- Identificar el puerto Ethernet de la computadora (puerto de red).
+- Verificar que el cable no presente daños físicos.
+- Comprobar que el otro extremo del cable esté conectado correctamente al puerto de red de la pared o al dispositivo de red correspondiente (switch o router).
+
+**3. Aplicación de la solución**
+- Conectar el cable Ethernet al puerto de red de la computadora.
+- Asegurarse de que el conector quede correctamente ajustado.
+- Esperar unos segundos para que el equipo reconozca la conexión.
+- Verificar que los indicadores luminosos del puerto Ethernet se enciendan o parpadeen, si el equipo cuenta con ellos.
+
+**4. Pruebas de funcionamiento**
+- Comprobar que el equipo haya recuperado la conexión de red.
+- Abrir un navegador e ingresar a una página web para comprobar el acceso a Internet.
+- Si la conexión continúa fallando, verificar el estado del adaptador de red y escalar el caso si es necesario.
+
+**5. Confirmación y cierre**
+- Solicitar al usuario que confirme que puede navegar correctamente.
+- Registrar la solución aplicada y el tiempo de atención.
+- Cerrar el ticket una vez confirmado que el servicio funciona correctamente.
+
+**Tiempo aproximado de atención:** 5 minutos.
